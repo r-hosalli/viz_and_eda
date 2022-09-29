@@ -2,7 +2,7 @@
 title: "In_Class"
 author: "Rahul Hosalli"
 date: "`r Sys.Date()`"
-output: git_document
+output: github_document
 ---
 
 ```{r Set Up}
